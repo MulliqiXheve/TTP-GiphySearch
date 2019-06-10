@@ -1,0 +1,43 @@
+
+Creating a new React app in C:\Users\jenny\Desktop\projects\giphy.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> core-js@2.6.9 postinstall C:\Users\jenny\Desktop\projects\giphy\node_modules\babel-runtime\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js-pure@3.1.3 postinstall C:\Users\jenny\Desktop\projects\giphy\node_modules\core-js-pure
+> node scripts/postinstall || echo "ignore"
+
++ react-dom@16.8.6
++ react@16.8.6
++ react-scripts@3.0.1
+added 1405 packages from 727 contributors and audited 888980 packages in 75.054s
+found 0 vulnerabilities
+
+
+Success! Created giphy at C:\Users\jenny\Desktop\projects\giphy
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd giphy
+  npm start
+
+Happy hacking!
